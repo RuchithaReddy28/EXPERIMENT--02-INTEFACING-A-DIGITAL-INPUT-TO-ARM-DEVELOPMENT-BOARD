@@ -276,7 +276,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 ```
 ## Output  :
+### Case1:LED is ON
 ![output](https://github.com/RuchithaReddy28/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/main/l1.png?raw=true)
+### Case2:LED is OFF
 ![output](https://github.com/RuchithaReddy28/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/main/l2.png?raw=true)
  
  
